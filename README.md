@@ -2,7 +2,8 @@
 Kelimelerden oluşan dizinin tüm elemanlarını dolaşan, her bir elemanın karakterlerinde tekrar eden harf içerip
 içermediğini kontrol eden ve bu dizi içerisinde en az iki tane harf tekrar eden kelime bulduğunda arama işlemini
 sonlandırıp bulduğu iki kelimenin harfleriyle anlamlı ya da anlamsız yeni bir metin oluşturan algoritma kurup
-bunu kodlayın. Ödevinizi Github’ta repo olarak paylaşın.
+bunu kodlayın. 
+
 Örnek:
 Kelime Dizisi: [kalem, elalem, kelam, kelime]
 Tekrar eden harf içeren 2 kelime: elalem, kelime
